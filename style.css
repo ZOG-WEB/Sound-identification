@@ -20,6 +20,42 @@ color: aliceblue;
     font-size: 20px;
 }
 
+.header_div p{
+    font-family:'Roboto',sans-serif;
+    color:blue;
+    letter-spacing: 2px;
+    font-size:2px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family:'Roboto',sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.footer{
+    position: fixed;
+bottom: 0%;
+width:100%;
+background-color:red;
+color:white;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
